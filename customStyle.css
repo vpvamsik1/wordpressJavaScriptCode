@@ -1,0 +1,387 @@
+#secondary{
+	display: none;
+}
+#primary{
+	width: 100%;
+}
+#img1{
+	float: left;
+/*   margin-right: 1%; */
+}
+.img2{
+	width: 94%;
+}
+.F1{
+	float: left;
+}
+.attachment-medical-head-single-image{
+	float: left;
+    margin-right: 1.5%;
+}
+.dNone{
+	display: none !important;
+}
+#main #post-114 .entry-content ul{
+	margin-left: 65%;
+}
+ .fa-baby, .fa-kidneys, .fa-watch-fitness, .fa-water-rise, .fa-heart, .fa-heartbeat, .fa-vial, .fa-ear, .fa-heart-rate, .fa-thermometer-three-quarters,.fa-heartbeat, .fa-heart-circle, .fa-male, .fa-chart-line, .fa-clipboard-list-check, .fa-leaf-heart,.fa-prescription-bottle-alt, .fa-water-lower{
+	font-size: 500%;
+	    margin: 39px;
+	 color: #1C91FC;
+} 
+
+h4 br{
+	display:none;
+}
+.top-header-left .col-lg-6{
+   width: 100%;
+  text-align: center; 
+}
+
+.top-header-right .col-lg-6{
+   width: 100%;
+  text-align: center; 
+}
+
+.call_to_action{
+	display: none;
+}
+.side-info-button{
+	display: none;
+}
+
+.bold1{
+	font-size: 22px;
+	color: #1C91FC;
+}
+.bold2{
+/* 	font-size: 22px; */
+	color: #1C91FC;
+}
+
+@media (min-width: 769px) { 
+#primary-menu li a{
+	
+	color: #2F2D44;
+}
+}
+
+
+#post-561 i{
+/* 		font-size: 500%;
+	    margin: 39px; */
+	color: #1C91FC;
+}
+
+#post-561 a{
+	color: #2F2D44;
+/* 	text-decoration: underline; */
+}
+#fluLink{
+	  font-size: 29px;
+    font-family: times;
+    color: #0000EE !important;
+		text-decoration: underline;
+}
+#post-754 a, #post-847 a, #post-894 a, #post-902 a, #post-918 a, #post-944 a{
+	color: #2F2D44;
+	text-decoration: underline;
+}
+#post-776, #post-803, #post-834, #post-847, #post-855, #post-865, #post-873, #post-883, #post-894, #post-910, #post-918, #post-928, #post-944, #post-377, #post-2, #post-1038{
+	color: #2F2D44;
+}
+article{
+	color: #2F2D44;
+}
+#header-wrap{
+	border-bottom: 1px solid #2F2D44;
+}
+
+#flex1{
+	display: inline-flex;
+}
+#post-944 img{
+	border-radius: 50%;
+}
+#img2{
+/* 	width: 52%; */
+/* 	height:400px; */
+}
+.about-us ul{
+	display: none;
+}
+.wp-block-button{
+	margin-top: 1.5em;
+}
+@media (min-width: 600px){
+	.has-medium-gutter{
+		margin-right: 0px !important;
+	}
+}
+
+input.wpcf7-form-control.wpcf7-submit {
+display: block;
+margin: 0 auto;
+}
+.mapouter{
+	margin-top: 3%;
+}
+.imgHeight{
+	height: 237px;
+}
+
+.team-info ul{
+	display: none;
+}
+.wpcf7 input{
+	width: 100%;
+}
+.upper-footer{
+	display: none;
+}
+
+#mb{
+	margin-bottom: 2.5%;
+}
+.social-link li{
+	display: none !important;
+}
+#hello{
+	display: inline-block !important;
+	margin-right: 0px;
+	font-size: 35px;
+	color: #4267B2;
+}
+.fa-facebook{
+	color: #4267B2 !important;
+}
+.contact-item li{
+	font-size: 17px !important;
+    color: #2F2D44 !important;
+}
+.contact-item li a{
+ color: #2F2D44 !important;
+}
+.booking_form{
+	display: none;
+}
+.faq_accordance{
+	width: 100%;
+}
+.medical_layout_blog{
+	display: none;
+}
+.inline{
+	display: inline;
+}
+#post-377 a, #post-39 a, #post-1500 a, #post-62 a{
+	color: #0000EE;
+	text-decoration: underline;
+}
+
+#post-377 a:visited, #post-39 a:visited, #post-1500 a:visited, #post-62 a:visited{
+	color: #551A8B;
+	text-decoration: underline;
+}
+
+#post-1500 ul{
+	font-size: 23px;
+}
+#post-998 h4{
+	display: inline-flex;
+}
+#post-1046 h4{
+	display: inline-flex;
+}
+#post-1038 h4{
+	display: inline-flex;
+}
+#tennis{
+	width: 13%;
+  margin-top: 2%;
+}
+#hike{
+	width: 6%;
+  margin-top: 2%;
+}
+#reading{
+	width: 8%;
+  margin-top: 2%;
+}
+.hidden-sm{
+	display: none;
+}
+.promotion{
+	padding: 0px;
+}
+.medical_layout_facility{
+	padding-bottom: 0px;
+	padding-top: 20px;
+}
+.medical_layout_services{
+	display: none;
+}
+.fa-racquet, .fa-hiking, .fa-book-reader{
+	float: right;
+  font-size: 529%;
+}
+#menu-item-448, #menu-item-455{
+	display: none;
+}
+#sPic{
+	width: 300px;
+}
+#sPic2{
+	height: 400px;
+}
+#post-521 biz-name{
+	color: green;
+}
+
+ @media (min-width: 769px){
+	.menu-toggle {
+			display: none;
+	}
+} 
+@media (min-width: 600px){
+.has-medium-gutter>[class*="wp-block-coblocks-"]:not(:last-child) {
+    margin-right: 0px;
+}
+}
+@media (max-width: 575.98px) { 
+	.F1{
+		float: none;
+		text-align: center;
+	}
+	.F2{
+		width: auto;
+	}
+	#tennis {
+			width: 33%;
+			margin-top: 6%;
+	}
+	#hike {
+			width: 20%;
+			margin-top: 6%;
+	}
+	#reading {
+			width: 20%;
+			margin-top: 6%;
+	}
+}
+@media (min-width: 992px) { 
+	#drImg{
+		width: 60%;
+	}
+.F2{
+	width: 329px;
+}
+
+#STimg{
+	  object-fit: cover;
+
+  width: 309px;
+  height: 375px;
+}
+
+}
+#post-561 a {
+    color: white;
+}
+#post-39 img, #post-62 img, #post-43 img, #post-54 img, #post-56 img{
+	display: none;
+}
+
+#post-39 ul, #post-62 ul, #post-43 ul, #post-54 ul, #cveP, #post-56 ul{
+	font-size: 29px;
+	font-family: times;
+		color: #0000EE;
+	text-decoration: underline;
+	cursor: pointer;
+}
+.tooltip-ex-text {
+    visibility: hidden;
+    position: absolute;
+    width: 120px;
+    background-color: #555;
+    color: #fff;
+    text-align: center;
+    padding: 5px 0;
+    border-radius: 6px;
+    z-index: 1;
+    opacity: 0;
+    transition: opacity .6s;
+}
+.tooltip-ex:hover .tooltip-ex-text { /* Makes tooltip visible when hovered on */
+    visibility: visible;
+    opacity: 1;
+}
+
+@media only screen and (max-width: 768px){
+.is-sticky .header-wrap {
+    position: fixed !important;
+}
+	.header-logo{
+		margin-bottom: 7%;
+	}
+	.fa-search{
+		font-size: 149%;
+	}
+}
+@media (max-width: 575.98px) { .anchor{
+	    display: block;
+    position: relative;
+    top: 72px;
+} 
+.topbar-light ul li {
+  
+    line-height: 26px;
+}
+}
+.desBox{
+	margin-top: 2%;
+	border: 5px solid #00563F;
+	padding: 2% 2%;
+	font-size: 29px;
+    font-family: times;
+
+}
+#description, #description2, #description3, #description4, #description5{
+	font-size: 29px;
+    font-family: times;
+}
+.testimonial{
+	background: #f9f9f9;
+}
+#reviews{
+	width: 100%;
+	border: 5px solid #00563F !important;
+	height: 1635px;
+	padding: 0% 0% 3% 1%;
+}
+.medical_layout_team .sectiontitle p {
+/*     text-align: center; */
+    padding-bottom: 0px;
+    
+}
+.faq_accordance{
+	min-height: 140px;
+}
+#address{
+	float: left;
+}
+#timings, #pNumber{
+	float: right;
+}
+#header-wrap{
+	position: relative !important;
+}
+.testimonial{
+	display: none;
+}
+@media (min-width: 768px) and (max-width: 991.98px){
+.col-md-3 {
+/*     width: 25%; */
+	margin-top: 3%;
+}
+}
